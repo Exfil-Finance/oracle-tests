@@ -1,6 +1,6 @@
 
 ## Exfil Oracle Tests
-These are examples of tests that use oracles to verify the validitity of L2 -> L1 fast withdrawals initiated by the Exfil protocol.
+A collection of example tests that use oracles to verify the validitity of L2 -> L1 fast withdrawals initiated by the Exfil protocol.
 
 Built with [usingTellor](https://github.com/tellor-io/usingtellor) 💙
 
